@@ -4,6 +4,6 @@ It’s a project in which unknown attack is detected. Detection using machine le
 Python
 ### Description
 - Dataset Used: 100 malicious files has been used as dataset. Features has been extracted out of it and used as an dataset using feature_extraction.py
-- Rankinh the datset features using CFS(Correlation feature selection)
+- Ranked the datset features using CFS(Correlation feature selection) and selected good features.
 - Selected beat subset using Recursive feature elimination
 - classification using SVM
